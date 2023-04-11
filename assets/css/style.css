@@ -1,0 +1,58 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.logo{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+.logo img{
+    width: 200px;
+    height: 200px;
+}
+.banner{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+.banner img{
+    height: 150px;
+    width: 90%;
+    object-fit:cover;
+    object-position: middle;
+}
+nav{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    background-color: black;
+    text-align: center;
+    word-spacing: 100px;
+}
+nav a{
+    display: inline-block;
+    font-size: 40px;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.img2 img{
+    width: 300px;
+    float: left;
+}
+aside div{
+    float: right;
+    text-align: center;
+    line-height: 50px;
+}
